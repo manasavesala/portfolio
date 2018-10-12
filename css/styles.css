@@ -8,13 +8,13 @@ body{
   padding-top: 50px;
 }
 .index img{
-  border-radius: 50%;
+  border-radius: 30%;
   border-width: thin;
   border: solid;
   width:150px;
   height:150px;
   margin-top: 10px;
-  margin-left: 50px;
+  margin-left: 80px;
   margin-right: 150px;
   margin-bottom: 30px;
 }
