@@ -1,0 +1,27 @@
+body{
+  background-image: url("bgindex.jpg");
+  background-size: cover;
+  background-color: black;
+}
+.index{
+  padding: 300px;
+}
+.index img{
+  border-radius: 50%;
+  border-width: medium;
+  width:200px;
+  height:200px
+}
+
+.index h1{
+  font-family: brim-narrow-combined-2, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 100px;
+  font-family: monospace;
+  color: white;
+}
+.index a{
+  font-size: 50px;
+  padding-left: 30px;
+}
