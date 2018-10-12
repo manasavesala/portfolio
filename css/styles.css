@@ -8,9 +8,21 @@ body{
 }
 .index img{
   border-radius: 50%;
-  border-width: medium;
+  border-width: thin;
+  border: solid;
   width:200px;
-  height:200px
+  height:200px;
+  margin-top: 60px;
+  margin-left: 250px;
+  margin-right: 150px;
+  margin-bottom: 30px;
+}
+
+.index img:hover{
+  border: 10px inset;
+
+
+
 }
 
 .index h1{
@@ -21,7 +33,18 @@ body{
   font-family: monospace;
   color: white;
 }
+.index h1:hover{
+  color:yellow;
+  font-size: 120px;
+  font-weight: bold;
+  font-style: italic;
+}
 .index a{
   font-size: 50px;
   padding-left: 30px;
+  margin-left: 10px;;
+}
+.index a:hover{
+  color: red;
+  font-size: 55px;
 }
