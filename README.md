@@ -1,12 +1,12 @@
-# _Wikipedia_
+# _Portfolio_
 
-#### _single Webpage for Epicodus, 10.11.2018_
+#### _A Webpage for Epicodus, 10.11.2018_
 
-#### By _**Manasa Vesala and Kaveh Saleminejad**_
+#### By _**Manasa Vesala**_
 
 ## Description
 
-_A single Wikipedia page_
+_A Portfolio Webpage page_
 
 ## Setup/Installation Requirements
 
@@ -17,7 +17,7 @@ _A single Wikipedia page_
 
 ## Support and contact details
 
-_Contact Manasa Vesala - vesalamanasa@gmail.com or Kaveh Saleminejad - lcaveh@gmail.com._
+_Contact Manasa Vesala - vesalamanasa@gmail.com_
 
 ## GitHub page's links
 
@@ -31,4 +31,4 @@ _Contact Manasa Vesala - vesalamanasa@gmail.com or Kaveh Saleminejad - lcaveh@gm
 
 *This software is licensed under the MIT license.*
 
-Copyright (c) 2018 **_Manasa Vesala, Kaveh Saleminejad_**
+Copyright (c) 2018 **_Manasa Vesala_**

@@ -3,7 +3,9 @@
   padding-top: 30px;
 }
 body{
-  background-color: #dce5ce;
+  background-image: url("../img/contactbg.jpg");
+  background-size: cover;
+  background-attachment: fixed;
 }
 h3{
   font-size: 50px;
@@ -26,4 +28,7 @@ img{
 }
 .down{
   padding-top: 30px;
+}
+.panel-body{
+  background-color:#e9f9db ;
 }

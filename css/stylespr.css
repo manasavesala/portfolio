@@ -6,7 +6,6 @@ h1{
   margin-top:20px;
   padding-top: 20px;
 }
-
 .topright{
   float: right;
   padding-left: 30px;
@@ -14,7 +13,6 @@ h1{
   margin-right: 40px;
   font-size: 20px;
 }
-
 li a:hover{
   color: red;
   font-size: 25px;
@@ -24,18 +22,15 @@ li a:hover{
   padding-top: 40px;
   opacity: .6;
 }
-
 body{
   background-image: url("../img/projectbg.jpg");
   background-size: cover;
   background-attachment: fixed;
 }
-
 .panel-body{
   font-size: 25px;
   background-color: ;
 }
-
 .panel-title{
   color:red;
   font-size: 30px;

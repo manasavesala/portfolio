@@ -18,15 +18,8 @@ body{
   margin-right: 150px;
   margin-bottom: 30px;
 }
-
-.index img:hover{
-  border-radius: 50%;
-  border: 20px inset black;
-
-}
 .index .both{
   margin-left: 30px;
-
 }
 .index h1{
   font-family: brim-narrow-combined-2, sans-serif;
@@ -48,7 +41,7 @@ body{
 }
 .index a{
   font-size: 50px;
-  color:purple;
+  color:#1e680a;
   padding-top: 60px;
 }
 .index a:hover{
