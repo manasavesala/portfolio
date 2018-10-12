@@ -22,3 +22,16 @@ p{
   padding-left: 50px;
   color: lightgreen;
 }
+.my img{
+  float: right;
+  height: 160px;
+  width: 180px;
+  margin-right: :40px;
+  padding-right: 30px;
+}
+.my p{
+  font-size: 35px;
+}
+span{
+  color:yellow;
+}

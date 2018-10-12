@@ -31,7 +31,7 @@ body{
 }
 .index h1:hover{
   color:purple;
-  font-size: 120px;
+  font-size: 100px;
   font-weight: bold;
   font-style: italic;
 }
@@ -41,8 +41,9 @@ body{
 }
 .index a{
   font-size: 50px;
-  color:#1e680a;
+  color:#0a4bb2;
   padding-top: 60px;
+  font-family: fantasy;
 }
 .index a:hover{
   color: red;
