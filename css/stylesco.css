@@ -1,0 +1,29 @@
+.one{
+  margin-left: 30px;
+  padding-top: 30px;
+}
+body{
+  background-color: #dce5ce;
+}
+h3{
+  font-size: 50px;
+}
+h4{
+  font-size: 30px;
+}
+p{
+  font-size: 30px;
+  margin-left: 50px;
+}
+img{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 50% solid black;
+}
+.panel{
+  margin: 40px;
+}
+.down{
+  padding-top: 30px;
+}

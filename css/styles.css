@@ -1,48 +1,55 @@
 body{
-  background-image: url("bgindex.jpg");
+  background-image: url("../img/indexbg.png");
   background-size: cover;
-  background-color: black;
+  background-attachment: fixed;
 }
 .index{
-  padding: 300px;
+  padding: 200px;
+  padding-top: 50px;
 }
 .index img{
   border-radius: 50%;
   border-width: thin;
   border: solid;
-  width:200px;
-  height:200px;
-  margin-top: 60px;
-  margin-left: 250px;
+  width:150px;
+  height:150px;
+  margin-top: 10px;
+  margin-left: 50px;
   margin-right: 150px;
   margin-bottom: 30px;
 }
 
 .index img:hover{
-  border: 10px inset;
-
-
+  border-radius: 50%;
+  border: 20px inset black;
 
 }
+.index .both{
+  margin-left: 30px;
 
+}
 .index h1{
   font-family: brim-narrow-combined-2, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 100px;
   font-family: monospace;
-  color: white;
+  color: pink;
 }
 .index h1:hover{
-  color:yellow;
+  color:purple;
   font-size: 120px;
   font-weight: bold;
   font-style: italic;
 }
+.index li{
+  padding-top: 30px;
+  margin-top: 40px;
+}
 .index a{
   font-size: 50px;
-  padding-left: 30px;
-  margin-left: 10px;;
+  color:purple;
+  padding-top: 60px;
 }
 .index a:hover{
   color: red;
